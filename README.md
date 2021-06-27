@@ -4,6 +4,8 @@
 
 The purpose of this analysis was to investigate and understand the weather on the island of Oahu--site of a proposed surf and shake shop.   This analysis generated the summary statistics of local temperature observations during the months of June and October.  
 
+## Data analyzed
+
 A database of nearly 20,000 temperature observations from nine stations was provided.  These observations occurred from January 1, 2010 through August 23, 2017.  
 
 
@@ -37,7 +39,9 @@ From the analysis of the data, spanning nearly seven years, several key points c
 
 # Summary
 
-Overall, the data investigated thus far point to a steady demand for ice cream and all things related to surfing.
+Overall, the data investigated thus far point to a steady demand for ice cream and all things related to surfing.  The small variance in the data support high demand year-round.
+
+# Opportunities for further investigation
 
 There are several other queries that could provide valuable insight.  For example, also analyzing other weather data such as precipitation, cloudiness, and the feels-like temperature would provide additional insight to either strengthen or weaken the results of the analysis thus far.
 
